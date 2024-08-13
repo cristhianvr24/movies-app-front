@@ -2,7 +2,7 @@
 
 ## Clonar el Repo 
 ```
-git clone <URL_DEL_REPOSITORIO>
+git clone (https://github.com/cristhianvr24/movies-app-front.git)
 cd movies-app-front 
 ```
 
