@@ -3,7 +3,7 @@
 ## Clonar el Repo 
 ```
 git clone <URL_DEL_REPOSITORIO>
-cd <NOMBRE_DEL_DIRECTORIO> 
+cd movies-app-front 
 ```
 
 ## Project setup
